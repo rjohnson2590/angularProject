@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5be6401c-d693-4ffe-a7be-3880b64a9948" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angularApp/public/angularfiles/ngapp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angularApp/public/angularfiles/todo-list.template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angularApp/views/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angularApp/app.js" afterPath="$PROJECT_DIR$/angularApp/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angularApp/routes/index.js" afterPath="$PROJECT_DIR$/angularApp/routes/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angularApp/public/angularfiles/ngapp.js" afterPath="$PROJECT_DIR$/angularApp/public/angularfiles/ngapp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angularApp/views/index.html" afterPath="$PROJECT_DIR$/angularApp/views/index.html" />
     </list>
     <ignored path="angularProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,21 +54,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/angularApp/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.967742">
-              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.2492276">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="todo-list.template.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="todo-list.template.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/angularApp/public/angularfiles/todo-list.template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.11328527">
+            <state vertical-scroll-proportion="-3.548387">
               <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todo-list.component.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angularApp/public/angularfiles/todo-list.component.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -82,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/angularApp/public/angularfiles/ngapp.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="34" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
+              <caret line="0" column="26" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -118,11 +124,11 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/angularApp/routes/index.js" />
         <option value="$PROJECT_DIR$/angularApp/app.js" />
-        <option value="$PROJECT_DIR$/angularApp/public/angularfiles/ngapp.js" />
         <option value="$PROJECT_DIR$/angularApp/public/angularfiles/test-list.template.html" />
         <option value="$PROJECT_DIR$/angularApp/public/angularfiles/test-list.component.js" />
-        <option value="$PROJECT_DIR$/angularApp/views/index.html" />
         <option value="$PROJECT_DIR$/angularApp/public/angularfiles/todo-list.template.html" />
+        <option value="$PROJECT_DIR$/angularApp/public/angularfiles/ngapp.js" />
+        <option value="$PROJECT_DIR$/angularApp/views/index.html" />
       </list>
     </option>
   </component>
@@ -133,7 +139,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
-    <option name="y" value="41" />
+    <option name="y" value="-9" />
     <option name="width" value="1938" />
     <option name="height" value="1168" />
   </component>
@@ -354,7 +360,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="41" width="1938" height="1168" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1168" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24895833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -512,10 +518,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angularApp/views/index.html">
+    <entry file="file://$PROJECT_DIR$/angularApp/public/angularfiles/todo-list.template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.967742">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        <state vertical-scroll-proportion="-3.548387">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularApp/public/angularfiles/todo-list.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -523,15 +537,15 @@
     <entry file="file://$PROJECT_DIR$/angularApp/public/angularfiles/ngapp.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="34" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
+          <caret line="0" column="26" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angularApp/public/angularfiles/todo-list.template.html">
+    <entry file="file://$PROJECT_DIR$/angularApp/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11328527">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.2492276">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding />
         </state>
       </provider>
