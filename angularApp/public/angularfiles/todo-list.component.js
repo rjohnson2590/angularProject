@@ -11,6 +11,11 @@ component('todoList', {
     //'</ul>',
     controller: function todoListController() {
         this.todos = [
+
+            {
+                task: 'Create partial view for reviews',
+                snippet:'Ask Nick or Nahn how to create a partial view, specifically how to do so for the es, pt, and en review pages for reviews.aspx.'
+            },
             {
                 task: 'Express Routing',
                 snippet: 'Re-learn how to route with expressJs.'
@@ -22,5 +27,7 @@ component('todoList', {
                 snippet: 'Make this a full stack app by using Mongodb for the database.'
             }
         ];
+
+
     }
 });
